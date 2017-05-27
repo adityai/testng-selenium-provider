@@ -1,0 +1,7 @@
+<suite name="NewTestSuite">
+	<test name="NewTest">
+		<classes>
+			<class name="com.iaditya.testng.providersample.NewTest" />
+		</classes>
+	</test>
+</suite>
